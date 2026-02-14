@@ -1,4 +1,4 @@
-# 🔐 Role-Based Authentication System (Spring Boot + SQL) ///
+# 🔐 Role-Based Authentication System (Spring Boot + SQL) 
 
 A secure Role-Based Authentication and Authorization system built using Java and Spring Boot.  
 This project demonstrates user registration, login, role management (ADMIN / USER), and API access control using Spring Security.
